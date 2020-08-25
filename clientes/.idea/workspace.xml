@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b01383b4-dbba-4098-ba05-28480c57bb79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/clientes/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clientes/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clientes/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clientes/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clientes/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clientes/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clientes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clientes/src/main/java/io/github/costajeferson/clientes/ClientesApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clientes/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clientes/src/test/java/io/github/costajeferson/clientes/ClientesApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/locadora.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/src/main/java/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/src/main/java/AnimalConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/src/main/java/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/src/main/java/Development.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/src/main/java/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/src/main/java/MinhaConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/src/main/java/VendasApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/src/main/java/model/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/src/main/java/repository/ClientesRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/src/main/java/service/ClientesService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/src/main/resources/application-development.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/src/main/resources/application-production.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locadora/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendas2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendas2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendas2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendas2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendas2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendas2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendas2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendas2/src/main/java/io/github/costajeferson/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendas2/src/main/java/io/github/costajeferson/AnimalConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendas2/src/main/java/io/github/costajeferson/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendas2/src/main/java/io/github/costajeferson/Development.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendas2/src/main/java/io/github/costajeferson/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendas2/src/main/java/io/github/costajeferson/MinhaConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendas2/src/main/java/io/github/costajeferson/VendasApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendas2/src/main/java/io/github/costajeferson/model/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendas2/src/main/java/io/github/costajeferson/repository/ClientesRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendas2/src/main/java/io/github/costajeferson/service/ClientesService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendas2/src/main/resources/application-development.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendas2/src/main/resources/application-production.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendas2/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendas2/vendas2.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gP6ZlXrNifzwNrKB9wdaJ3qsfh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/clientes" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Desenvolvimento\clientes" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="io.github.costajeferson" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ClientesApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.costajeferson.ClientesApplication" />
+      <module name="clientes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.costajeferson.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientesApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b01383b4-dbba-4098-ba05-28480c57bb79" name="Default Changelist" comment="" />
+      <created>1598003941883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598003941883</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598005236233">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1598005236233" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1598011435051">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1598011435051" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1598007362883">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1598007362883" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1598007362882">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1598007362882" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1598007362882">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1598007362882" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1598007362882">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1598007362882" />
+    <state x="184" y="14" key="SettingsEditor" timestamp="1598006389195">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="14" key="SettingsEditor/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1598006389195" />
+  </component>
+</project>
